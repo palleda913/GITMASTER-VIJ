@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is index1 file.hisub
+=======
+This is index1 file.hi
+>>>>>>> origin/master
